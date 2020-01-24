@@ -1,0 +1,9 @@
+module.exports.options = {
+    token: '',
+    idChannel: '670209052948824074',
+    roles: ["80sRP players"],
+    servers: [
+        { name: '80sRP', url: 'http://141.138.139.124:30120', alias: '80sRP' }
+    ],
+    pollRate: 30,
+};
