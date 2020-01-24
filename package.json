@@ -7,7 +7,7 @@
     "axios": "0.19.2",
     "discord.js": "11.5.1",
     "get-json": "1.0.1",
-    "lodash": "4.17.15"
+    "lodash": "4.17.13"
   },
   "devDependencies": {},
   "scripts": {
